@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>snc_internal</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 15:03:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2fbcd5061b312010ed077596cc4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification Widget</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Notification Widget" source="x_364985_notificat">bc9c19061b312010ed077596cc4bcb2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification Widget">bc9c19061b312010ed077596cc4bcb2f</sys_scope>
+        <sys_update_name>sys_app_application_2fbcd5061b312010ed077596cc4bcbfa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 15:03:41</sys_updated_on>
+        <title>Notification Widget</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification Widget">bc9c19061b312010ed077596cc4bcb2f</application>
+        <file_path/>
+        <instance_id>e24fe9e5dbcbf380f492c597059619c1</instance_id>
+        <instance_name>dev90529</instance_name>
+        <name>sys_app_application_2fbcd5061b312010ed077596cc4bcbfa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>snc_internal</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-20 15:03:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2fbcd5061b312010ed077596cc4bcbfa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Notification Widget</sys_name><sys_overrides/><sys_package display_value="Notification Widget" source="x_364985_notificat">bc9c19061b312010ed077596cc4bcb2f</sys_package><sys_policy/><sys_scope display_value="Notification Widget">bc9c19061b312010ed077596cc4bcb2f</sys_scope><sys_update_name>sys_app_application_2fbcd5061b312010ed077596cc4bcbfa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-20 15:03:41</sys_updated_on><title>Notification Widget</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>2087330181</payload_hash>
+        <record_name>Notification Widget</record_name>
+        <reverted_from/>
+        <source>bc9c95461b312010ed077596cc4bcbd1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 15:03:41</sys_created_on>
+        <sys_id>afbcd5061b312010ed077596cc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17720529f950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 15:03:41</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>e7bcd506b4312010069aee6c8aea4efd</update_guid>
+        <update_guid_history>e7bcd506b4312010069aee6c8aea4efd:2087330181</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Notification Widget">e8ec9d461b312010ed077596cc4bcb1c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 15:04:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1662030694114a84822d13246a3ba890</sys_id>
+        <sys_metadata>2fbcd5061b312010ed077596cc4bcbfa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification Widget</sys_name>
+        <sys_package display_value="Notification Widget" source="x_364985_notificat">bc9c19061b312010ed077596cc4bcb2f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification Widget">bc9c19061b312010ed077596cc4bcb2f</sys_scope>
+        <sys_scope_delete display_value="">22fa68b67de84514a7b9f0c06c390644</sys_scope_delete>
+        <sys_update_name>sys_app_application_2fbcd5061b312010ed077596cc4bcbfa</sys_update_name>
+        <sys_update_version display_value="sys_app_application_2fbcd5061b312010ed077596cc4bcbfa">afbcd5061b312010ed077596cc4bcbfd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 15:04:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
